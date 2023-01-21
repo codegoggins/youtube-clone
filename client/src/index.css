@@ -1,0 +1,21 @@
+/* Colours */
+
+:root{
+   --grey:#282828;
+   --light-gray:#272727;
+   --text-white:#f1f1f1;
+   --text-gray:#979797;
+   --search-gray:#979797;
+   --micro-gray:#979797;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+html,body{
+  overflow-x: hidden;
+}
